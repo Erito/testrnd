@@ -14,18 +14,20 @@
 
 ---
 
-## **Struktur Proyek**
+### Struktur Proyek
+
+```text
 C:.
-|,   struktur.txt
-|,  
+|   struktur.txt
+|
 +---backend
 |   |   package-lock.json
 |   |   package.json
-|   |   
+|   |
 |   \---src
 |           konekdb.js
 |           server.js
-|           
+|
 \---frontend
     |   .gitignore
     |   eslint.config.js
@@ -36,17 +38,17 @@ C:.
     |   postcss.config.js
     |   tailwind.config.js
     |   vite.config.js
-    |   
+    |
     +---public
     |       vite.svg
-    |       
+    |
     \---src
         |   App.jsx
         |   main.jsx
-        |   
+        |
         +---lib
         |       axios.js
-        |       
+        |
         \---routes
                 Adminpage.jsx
                 Event.jsx
