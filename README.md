@@ -16,8 +16,8 @@
 
 ## **Struktur Proyek**
 C:.
-|   struktur.txt
-|   
+|,   struktur.txt
+|,  
 +---backend
 |   |   package-lock.json
 |   |   package.json
