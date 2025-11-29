@@ -59,21 +59,21 @@ C:.
 
 ================================PANDUAN===========================
 ##	**Buat Database di MySQL(MariaDB), jangan lupa nyalakan selalu xamppnya:**
--- mysql -u root -p
--- CREATE DATABASE titusrnd_db;
--- USE titusrnd_db
--- SOURCE D:/kuliah/titusrnd_db.sql;  (kalau ini salin path .sqlnya, klik kanan 'copy as path')
+- mysql -u root -p
+- CREATE DATABASE titusrnd_db;
+- USE titusrnd_db
+- SOURCE D:/kuliah/titusrnd_db.sql;  (kalau ini salin path .sqlnya, klik kanan 'copy as path')
 
 
 ## **Open folder TitusRND (atau klik kanan open terminal, lalu ketik code . pada terminal)**
---**//JALANKAN PERINTAH DIBAWAH INI DI TERMINAL**
---cd .\backend\
---npm i
---npm run dev
+- **//JALANKAN PERINTAH DIBAWAH INI DI TERMINAL**
+- cd .\backend\
+- npm i
+- npm run dev
 
---**//BUKA TERMINAL BARU LAGI**
---cd .\frontend\
---npm i
---npm run dev
+- **//BUKA TERMINAL BARU LAGI**
+- cd .\frontend\
+- npm i
+- npm run dev
 
 
