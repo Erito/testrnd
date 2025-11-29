@@ -60,10 +60,9 @@ C:.
 
 ================================PANDUAN===========================
 1.	Buat Database di MySQL(MariaDB), jangan lupa nyalakan selalu xamppnya:
-mysql -u root -p
 CREATE DATABASE titusrnd_db;
 USE titusrnd_db
-SOURCE D:/kuliah/titusrnd_db.sql;  (kalau ini salin path .sqlnya, klik kanan 'copy as path')
+SOURCE C:/Users/ASUS/Desktop/laporantes/titusrnd_db.sql;  (kalau ini salin path .sqlnya sesuai lokasi file di simpen)
 
 
 2. Open folder TitusRND (atau klik kanan open terminal, lalu ketik code . pada terminal)
